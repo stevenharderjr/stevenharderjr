@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=black&style=for-the-badge" />
 <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=white&style=for-the-badge" />
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white&style=for-the-badge" />
-<img alt="Jest" src="https://img.shields.io/badge/Jest-000000?logo=jest&logoColor=white&style=for-the-badge" />
-<img alt="K6" src="https://img.shields.io/badge/K6-000000?logo=k6&logoColor=white&style=for-the-badge" />
-<img alt="Loader.io" src="https://img.shields.io/badge/Loader.io-000000?logo=loaderio&logoColor=white&style=for-the-badge" />
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white&style=for-the-badge" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white&style=for-the-badge" />
