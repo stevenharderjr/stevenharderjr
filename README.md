@@ -26,7 +26,7 @@ Here are some of the tools I use to make things:
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=aws&logoColor=white&style=for-the-badge" />
+<img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=aws&logoColor=white&style=for-the-badge" />
 <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
 <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
