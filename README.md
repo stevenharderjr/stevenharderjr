@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=black&style=for-the-badge" />
-<img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=black&style=for-the-badge" />
+<img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
