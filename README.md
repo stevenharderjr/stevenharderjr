@@ -27,7 +27,10 @@ Here are some of the tools I use to make things:
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
 <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=aws&logoColor=white&style=for-the-badge" />
+<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge" />
+<img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=white&style=for-the-badge" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
 <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
 <img alt="Chai" src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=white&style=for-the-badge" />
