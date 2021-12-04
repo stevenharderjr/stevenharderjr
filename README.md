@@ -1,5 +1,6 @@
-### Hi, welcome to my GitHub page
-My name is Steven Harder and I am a software developer in Boise, Idaho
+#Hi,
+
+My name is Steven Harder. I am a full stack software engineer living in Boise, Idaho.
 
 <!--
 **stevenharderjr/stevenharderjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
