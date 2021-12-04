@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenharderjr&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img alt="React" src="https://img.shields.io/badge/#339933?logo=react&logoColor=white&style=for-the-badge" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" />
