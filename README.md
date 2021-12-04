@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=white&style=for-the-badge" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white&style=for-the-badge" />
-<img alt="Jest" src="https://img.shields.io/badge/MySQL-000000?logo=jest&logoColor=white&style=for-the-badge" />
-<img alt="K6" src="https://img.shields.io/badge/MySQL-000000?logo=k6&logoColor=white&style=for-the-badge" />
-<img alt="Loader.io" src="https://img.shields.io/badge/MySQL-000000?logo=loaderdotio&logoColor=white&style=for-the-badge" />
+<img alt="Jest" src="https://img.shields.io/badge/Jest-000000?logo=jest&logoColor=white&style=for-the-badge" />
+<img alt="K6" src="https://img.shields.io/badge/K6-000000?logo=k6&logoColor=white&style=for-the-badge" />
+<img alt="Loader.io" src="https://img.shields.io/badge/Loader.io-000000?logo=loaderio&logoColor=white&style=for-the-badge" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white&style=for-the-badge" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white&style=for-the-badge" />
