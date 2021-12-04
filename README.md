@@ -1,4 +1,5 @@
-### Hi
+### Hi, welcome to my GitHub page
+My name is Steven Harder and I am a software developer in Boise, Idaho
 
 <!--
 **stevenharderjr/stevenharderjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenharderjr&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+Tools I use to make things
 <p>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=black&style=for-the-badge" />
@@ -27,3 +28,5 @@ Here are some ideas to get you started:
 <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
 <img alt="Chai" src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=white&style=for-the-badge" />
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenharderjr&theme=react)](https://github.com/anuraghazra/github-readme-stats)
