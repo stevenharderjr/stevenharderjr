@@ -1,4 +1,4 @@
-# Hi,
+# Hi
 
 My name is Steven Harder. I am a full stack software engineer living in Boise, Idaho.
 
