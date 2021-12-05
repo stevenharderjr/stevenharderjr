@@ -37,5 +37,5 @@ Here are some of the tools I use to make things:
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenharderjr&backgroud=black" />
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME" />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenharderjr&theme=react)](https://github.com/anuraghazra/github-readme-stats)
