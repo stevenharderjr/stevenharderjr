@@ -36,4 +36,6 @@ Here are some of the tools I use to make things:
 <img alt="Chai" src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=white&style=for-the-badge" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenharderjr" />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenharderjr&theme=react)](https://github.com/anuraghazra/github-readme-stats)
